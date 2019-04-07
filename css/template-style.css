@@ -1,0 +1,140 @@
+nav {
+  padding: 0.825rem 0;
+}
+#first-block, #second-block, #third-block, #fourth-block {
+  padding:4.5rem 0;
+}
+#carousel {
+  background:#f8f8f8;
+}
+#first-block {
+  background:#fff;
+}
+#second-block {
+  background:#f8f8f8;
+}
+#third-block {
+  background:#fff;
+}
+#fourth-block {
+  background:#f8f8f8;
+}
+footer {
+  background:#fff;
+  padding:3.5rem 0;
+}
+@media screen and (max-width: 768px) {
+  .right {
+  float:none;
+  }
+  nav {
+    padding: 0;
+  }
+}
+
+.float-left {
+  float: left;
+}
+
+/* Margins */
+.margin-top {
+  margin-top: 1.25rem !important;
+}
+.margin-left {
+  margin-left: 1.25rem !important;
+}
+.margin-right {
+  margin-right: 1.25rem !important;
+}
+.margin-top-bottom {
+  margin-top: 1.25rem !important;
+  margin-bottom: 1.25rem !important;
+}
+.margin-left-right {
+  margin-left: 1.25rem !important;
+  margin-right: 1.25rem !important;
+}
+.margin-top-0,.margin-top-10,.margin-top-15,.margin-top-20,.margin-top-30,.margin-top-40,.margin-top-50,.margin-top-60,.margin-top-70,.margin-top-80,
+.margin-bottom-0,.margin-bottom-10,.margin-bottom-15,.margin-bottom-20,.margin-bottom-30,.margin-bottom-40,.margin-bottom-50,.margin-bottom-60,.margin-bottom-70,.margin-bottom-80,
+.margin-top-bottom-0,.margin-top-bottom-10,.margin-top-bottom-15,.margin-top-bottom-20,.margin-top-bottom-30,.margin-top-bottom-40,.margin-top-bottom-50,.margin-top-bottom-60,.margin-top-bottom-70,.margin-top-bottom-80 {display: block;}
+.margin-top-0 {margin-top: 0 !important;}
+.margin-top-10 {margin-top: 10px !important;}
+.margin-top-15 {margin-top: 15px !important;} 
+.margin-top-20 {margin-top: 20px !important;} 
+.margin-top-30 {margin-top: 30px !important;} 
+.margin-top-40 {margin-top: 40px !important;}
+.margin-top-50 {margin-top: 50px !important;}
+.margin-top-60 {margin-top: 60px !important;}
+.margin-top-70 {margin-top: 70px !important;}
+.margin-top-80 {margin-top: 80px !important;}
+.margin-bottom-0 {margin-bottom: 0 !important;}
+.margin-bottom-10 {margin-bottom: 10px !important;}
+.margin-bottom-15 {margin-bottom: 15px !important;} 
+.margin-bottom-20 {margin-bottom: 20px !important;} 
+.margin-bottom-30 {margin-bottom: 30px !important;} 
+.margin-bottom-40 {margin-bottom: 40px !important;}
+.margin-bottom-50 {margin-bottom: 50px !important;}
+.margin-bottom-60 {margin-bottom: 60px !important;}
+.margin-bottom-70 {margin-bottom: 70px !important;}
+.margin-bottom-80 {margin-bottom: 80px !important;}
+.margin-top-bottom-0 {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+.margin-top-bottom-10 {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+.margin-top-bottom-15 {
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
+} 
+.margin-top-bottom-20 {
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+} 
+.margin-top-bottom-30 {
+  margin-top: 30px !important;
+  margin-bottom: 30px !important;
+} 
+.margin-top-bottom-40 {
+  margin-top: 40px !important;
+  margin-bottom: 40px !important;
+}
+.margin-top-bottom-50 {
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+}
+.margin-top-bottom-60 {
+  margin-top: 60px !important;
+  margin-bottom: 60px !important;
+} 
+.margin-top-bottom-70 {
+  margin-top: 70px !important;
+  margin-bottom: 70px !important;
+} 
+.margin-top-bottom-80 {
+  margin-top: 80px !important;
+  margin-bottom: 80px !important;
+}
+.margin-left-0 {margin-left: 0 !important;}
+.margin-left-10 {margin-left: 10px !important;}
+.margin-left-15 {margin-left: 15px !important;} 
+.margin-left-20 {margin-left: 20px !important;} 
+.margin-left-30 {margin-left: 30px !important;} 
+.margin-left-40 {margin-left: 40px !important;}
+.margin-left-50 {margin-left: 50px !important;}
+.margin-left-60 {margin-left: 60px !important;}
+.margin-left-70 {margin-left: 70px !important;}
+.margin-left-80 {margin-left: 80px !important;}
+.margin-right-0 {margin-right: 0 !important;}
+.margin-right-10 {margin-right: 10px !important;}
+.margin-right-15 {margin-right: 15px !important;} 
+.margin-right-20 {margin-right: 20px !important;} 
+.margin-right-30 {margin-right: 30px !important;} 
+.margin-right-40 {margin-right: 40px !important;}
+.margin-right-50 {margin-right: 50px !important;}
+.margin-right-60 {margin-right: 60px !important;}
+.margin-right-70 {margin-right: 70px !important;}
+.margin-right-80 {margin-right: 80px !important;}    
+
